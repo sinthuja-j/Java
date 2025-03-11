@@ -17,6 +17,7 @@ Chamber States: Chambers can be marked as pushed, popped, lighted, sealed, or co
 Pathfinding Algorithm: The algorithm explores chambers based on specific conditions to find the best path to all treasures.
 
 How to Use
+
 Run the program with a file containing the pyramid map layout.
 The program will display the map and attempt to find the best route from the entrance to the treasure chambers.
 The stack will be used to navigate through the pyramid, considering constraints and finding treasures.
